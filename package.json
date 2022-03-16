@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-some-by",
-  "version": "0.0.8",
+  "version": "0.0.0",
   "description": "Test whether a collection contains at least `n` elements which pass a test implemented by a predicate function.",
   "license": "Apache-2.0",
   "author": {

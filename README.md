@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-some-by@deno/mod.js';
+import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-some-by@v0.2.1-deno/mod.js';
 ```
 
 #### someBy( collection, n, predicate\[, thisArg ] )
@@ -175,7 +175,7 @@ var mean = context.sum / context.count;
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-some-by@deno/mod.js';
+import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-some-by@v0.2.1-deno/mod.js';
 
 function threshold( value ) {
     return ( value > 0.95 );

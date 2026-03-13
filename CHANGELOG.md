@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-13)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`337cd19`](https://github.com/stdlib-js/stdlib/commit/337cd19f6517c2a606978fcdc4786d269ea0e2cd) - **bench:** refactor to use string interpolation in `utils/some-by` [(#10867)](https://github.com/stdlib-js/stdlib/pull/10867) _(by Sumithraju)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Sumithraju
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
